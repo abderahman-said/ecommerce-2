@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 Nov 2023 10:20:50 at https://wpmartfury.com/marketplace5/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wpmartfury.com/marketplace5/ -O1 "C:\My Web Sites\ECOMMERCE2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:23:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpmartfury.com/marketplace5/xmlrpc.php (from https://wpmartfury.com/marketplace5/)
+10:23:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpmartfury.com/marketplace5/xmlrpc.php?rsd (from https://wpmartfury.com/marketplace5/)
+10:23:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpmartfury.com/marketplace5/wp-content/fonts/work-sans/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8JoI3ZKyHqQg.woff (from https://wpmartfury.com/marketplace5/)
+10:23:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpmartfury.com/marketplace5/wp-content/fonts/work-sans/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBi8JoI3ZKyHqQg.woff (from https://wpmartfury.com/marketplace5/)
+10:24:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpmartfury.com/marketplace5/product-category/consumer-electrics/tv-televisions/ (from https://wpmartfury.com/marketplace5/)
+10:28:14	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/shop/marshall-kilburn-portable-wireless-speaker/
+10:28:14	Warning: 	File has moved from https://wpmartfury.com/marketplace5/shop/marshall-kilburn-portable-wireless-speaker/ to https://wpmartfury.com/marketplace5/product/marshall-kilburn-portable-wireless-speaker/
+10:28:14	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/shop/marshall-kilburn-portable-wireless-speaker/?product_style=2
+10:28:14	Warning: 	File has moved from https://wpmartfury.com/marketplace5/shop/marshall-kilburn-portable-wireless-speaker/?product_style=2 to https://wpmartfury.com/marketplace5/product/marshall-kilburn-portable-wireless-speaker/?product_style=2
+10:28:16	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/shop/marshall-kilburn-portable-wireless-speaker/?product_style=3
+10:28:16	Warning: 	File has moved from https://wpmartfury.com/marketplace5/shop/marshall-kilburn-portable-wireless-speaker/?product_style=3 to https://wpmartfury.com/marketplace5/product/marshall-kilburn-portable-wireless-speaker/?product_style=3
+10:28:17	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/shop/marshall-kilburn-portable-wireless-speaker/?product_style=4
+10:28:17	Warning: 	File has moved from https://wpmartfury.com/marketplace5/shop/marshall-kilburn-portable-wireless-speaker/?product_style=4 to https://wpmartfury.com/marketplace5/product/marshall-kilburn-portable-wireless-speaker/?product_style=4
+10:28:17	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/shop/marshall-kilburn-portable-wireless-speaker/?product_style=5
+10:28:17	Warning: 	File has moved from https://wpmartfury.com/marketplace5/shop/marshall-kilburn-portable-wireless-speaker/?product_style=5 to https://wpmartfury.com/marketplace5/product/marshall-kilburn-portable-wireless-speaker/?product_style=5
+10:28:19	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/shop/epsion-plaster-printer/
+10:28:19	Warning: 	File has moved from https://wpmartfury.com/marketplace5/shop/epsion-plaster-printer/ to https://wpmartfury.com/marketplace5/product/epsion-plaster-printer/
+10:28:20	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/shop/sleeve-linen-blend-caro-pane-shirt/
+10:28:20	Warning: 	File has moved from https://wpmartfury.com/marketplace5/shop/sleeve-linen-blend-caro-pane-shirt/ to https://wpmartfury.com/marketplace5/product/sleeve-linen-blend-caro-pane-shirt/
+10:28:22	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/shop/korea-long-sofa-fabric-in-blue-navy-color/
+10:28:22	Warning: 	File has moved from https://wpmartfury.com/marketplace5/shop/korea-long-sofa-fabric-in-blue-navy-color/ to https://wpmartfury.com/marketplace5/product/korea-long-sofa-fabric-in-blue-navy-color/
+10:28:22	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/shop/mvmth-classical-leather-watch-in-black/
+10:28:22	Warning: 	File has moved from https://wpmartfury.com/marketplace5/shop/mvmth-classical-leather-watch-in-black/ to https://wpmartfury.com/marketplace5/product/mvmth-classical-leather-watch-in-black/
+10:28:25	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/shop/unero-military-classical-backpack/
+10:28:25	Warning: 	File has moved from https://wpmartfury.com/marketplace5/shop/unero-military-classical-backpack/ to https://wpmartfury.com/marketplace5/product/unero-military-classical-backpack/
+10:28:25	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/shop/rayban-rounded-sunglass-brown-color/
+10:28:25	Warning: 	File has moved from https://wpmartfury.com/marketplace5/shop/rayban-rounded-sunglass-brown-color/ to https://wpmartfury.com/marketplace5/product/rayban-rounded-sunglass-brown-color/
+10:28:29	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/shop/baxter-care-hair-kit-for-bearded-mens/
+10:28:29	Warning: 	File has moved from https://wpmartfury.com/marketplace5/shop/baxter-care-hair-kit-for-bearded-mens/ to https://wpmartfury.com/marketplace5/product/baxter-care-hair-kit-for-bearded-mens/
+10:28:33	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/shop/edifier-r1280t-powered-bookshelf-speakers/
+10:28:33	Warning: 	File has moved from https://wpmartfury.com/marketplace5/shop/edifier-r1280t-powered-bookshelf-speakers/ to https://wpmartfury.com/marketplace5/product/edifier-r1280t-powered-bookshelf-speakers/
+10:28:35	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/shop/magic-bullet-nutribullet-pro-900-series-blender/
+10:28:35	Warning: 	File has moved from https://wpmartfury.com/marketplace5/shop/magic-bullet-nutribullet-pro-900-series-blender/ to https://wpmartfury.com/marketplace5/product/magic-bullet-nutribullet-pro-900-series-blender/
+10:28:46	Warning: 	Found for https://wpmartfury.com/marketplace5/checkout/
+10:28:46	Warning: 	File has moved from https://wpmartfury.com/marketplace5/checkout/ to https://wpmartfury.com/marketplace5/cart/
+10:28:46	Error: 	"Not Found" (404) at link https://wpmartfury.com/marketplace5/compare/ (from https://wpmartfury.com/marketplace5/)
+10:30:02	Error: 	"Not Found" (404) at link https://wpmartfury.com/marketplace5/no-thing/ (from https://wpmartfury.com/marketplace5/)
+10:30:29	Error: 	"Not Found" (404) at link https://wpmartfury.com/marketplace5/vendor/dcvendor1/ (from https://wpmartfury.com/marketplace5/)
+10:32:02	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/harman-kadon-onyx-studio-mini-reviews-experiences/
+10:32:02	Warning: 	File has moved from https://wpmartfury.com/marketplace5/harman-kadon-onyx-studio-mini-reviews-experiences/ to https://wpmartfury.com/marketplace5/2017/12/17/harman-kadon-onyx-studio-mini-reviews-experiences/
+10:32:03	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/products-necessery-for-mom/
+10:32:03	Warning: 	File has moved from https://wpmartfury.com/marketplace5/products-necessery-for-mom/ to https://wpmartfury.com/marketplace5/2017/12/17/products-necessery-for-mom/
+10:32:04	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/experience-great-sound-with-beatssheadphone/
+10:32:04	Warning: 	File has moved from https://wpmartfury.com/marketplace5/experience-great-sound-with-beatssheadphone/ to https://wpmartfury.com/marketplace5/2017/12/17/experience-great-sound-with-beatssheadphone/
+10:32:06	Warning: 	Moved Permanently for https://wpmartfury.com/marketplace5/home-interior-modern-style-2017/
+10:32:06	Warning: 	File has moved from https://wpmartfury.com/marketplace5/home-interior-modern-style-2017/ to https://wpmartfury.com/marketplace5/2017/12/17/home-interior-modern-style-2017/
+10:40:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpmartfury.com/marketplace5/xmlrpc.php (from https://wpmartfury.com/marketplace5/)
+10:40:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpmartfury.com/marketplace5/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png (from https://wpmartfury.com/marketplace5/wp-content/cache/autoptimize/6/css/autoptimize_20686f84dbbbe575642bd8249d30a0de.css)
+10:40:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpmartfury.com/marketplace5/wp-content/plugins/js_composer/assets/vc/alert.png (from https://wpmartfury.com/marketplace5/wp-content/cache/autoptimize/6/css/autoptimize_20686f84dbbbe575642bd8249d30a0de.css)
+10:40:42	Warning: 	Retry after error -4 (No data (connection closed)) at link demo2.drfuri.com/intro/unero/images/logoen.png (from https://wpmartfury.com/marketplace5/wp-content/cache/autoptimize/6/css/autoptimize_20686f84dbbbe575642bd8249d30a0de.css)
+10:40:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpmartfury.com/marketplace5/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888 (from https://wpmartfury.com/marketplace5/wp-content/cache/autoptimize/6/css/autoptimize_20686f84dbbbe575642bd8249d30a0de.css)
+10:40:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wpmartfury.com/marketplace5/xmlrpc.php?rsd (from https://wpmartfury.com/marketplace5/)
